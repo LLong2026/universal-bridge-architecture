@@ -23,3 +23,16 @@ Under the following terms:
 Full license text:
 https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
+Related Patent Filings:
+
+• U.S. Patent Application No. 19/693,343  
+• U.S. Patent Application No. 64/081,911  
+• U.S. Patent Application No. 64/082,606  
+• U.S. Patent Application No. 64/081,490  
+• U.S. Patent Application No. 64/094,360  
+
+Additional provisional filings include:
+• Universal Scribe identity capsule system  
+• Canonical Tokenization architecture  
+• Cross‑ledger anchoring and settlement flows  
+• ThreadZero mathematical framework
