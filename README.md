@@ -131,9 +131,7 @@ You may share the documents with attribution, but you may not modify or use them
 Full license text:  
 https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
-### **Reference Code (TypeScript, Solidity, Pseudocode)**  
-Licensed under **Apache License 2.0**.  
-This allows open‑source experimentation and integration while preserving attribution and patent protections.
+
 
 ---
 
